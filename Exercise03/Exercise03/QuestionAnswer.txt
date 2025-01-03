@@ -1,0 +1,83 @@
+
+1. What type would you choose for the following “numbers”?
+i. A person’s telephone number 
+Ans: long
+ii. A person’s height(assuming height is stored in cm)
+Ans: double
+iii. A person’s age
+Ans: int
+iv. A person’s gender (Male, Female, Prefer Not To Answer)
+Ans: int
+v. A person’s salary
+Ans: float
+vi. A book’s ISBN(assuming it is a 13 digit number)
+Ans: long
+vii. A book’s price
+Ans: float
+viii. A book’s shipping weight
+Ans: double
+ix. A country’s population
+Ans: long
+x. The number of stars in the universe
+Ans: long 
+xi. The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business)
+Ans: int
+
+2. What are the difference between value type and reference type variables? What is boxing and unboxing?
+Ans: A reference variable stores the memory address of the data it refers to, meaning multiple reference variables can point to the same data, 
+and changes through one reference affect the others. In contrast, a value variable holds the actual data in memory, and each variable has its 
+own copy, so changes to one do not affect others. Examples of value types are integers, floats, and booleans.
+
+Boxing is the process of converting a value type into a reference type by wrapping it in a heap-allocated object, enabling it to be treated 
+like an object.
+
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+Ans: In .NET, managed resources are those that the .NET runtime (CLR) manages automatically. These include objects created using the .NET 
+framework, such as strings, arrays, and other classes. Memory allocation and deallocation for managed resources are handled by the CLR, 
+eliminating the need for manual memory management.
+
+Unmanaged resources, on the other hand, are not managed by the CLR and include resources like file handles, database connections, network 
+sockets, and memory allocated outside of the .NET runtime. Developers must release these resources explicitly, typically using constructs like 
+Dispose() or a finalizer to ensure proper cleanup.
+
+
+4. Whats the purpose of Garbage Collector in .NET?
+Ans: The Garbage Collector (GC) in .NET is responsible for automatic memory management. Its primary purpose is to reclaim memory occupied by 
+objects that are no longer in use, freeing developers from having to manually release memory. 
+
+
+
+1. What happens when you divide an int variable by 0?
+Ans: We will system divide by zero exception
+
+2. What happens when you divide a double variable by 0?
+Ans: I got infinity as the solution
+
+3. What happens when you overflow an int variable, that is, set it to a value beyond its
+range?
+Ans: Throws an error stating that cannot implicitly convert long to int.
+
+4. What is the difference between x = y++; and x = ++y;?
+Ans: x = y++ will assign the value of y and later on increase y by 1 on the other end x = ++y will first increase the value of y by one and then assign it to x
+
+5. What is the difference between break, continue, and return when used inside a loop
+statement?
+Ans: Break will stop the loop, continue will skip that part of the loop and return will break and sent the value 
+
+6. What are the three parts of a for statement and which of them are required?
+Ans: initialization, condition, iterator 
+
+7. What is the difference between the = and == operators?
+Ans: = is for assignment and == is for comparison
+
+8. Does the following statement compile? for ( ; true; ) ;
+Ans: Infinite loop
+
+9. What does the underscore _ represent in a switch expression?
+Ans: default option case
+
+10. What interface must an object implement to be enumerated over by using the foreach
+statement?
+
+Ans: The IEnumerate 

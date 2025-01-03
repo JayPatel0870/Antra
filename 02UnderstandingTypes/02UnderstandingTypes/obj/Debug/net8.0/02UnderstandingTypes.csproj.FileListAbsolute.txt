@@ -1,0 +1,14 @@
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.exe
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.deps.json
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.runtimeconfig.json
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.dll
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net8.0\02UnderstandingTypes.pdb
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.AssemblyInfo.cs
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.dll
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\refint\02UnderstandingTypes.dll
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.pdb
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\02UnderstandingTypes.genruntimeconfig.cache
+C:\dotnet\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net8.0\ref\02UnderstandingTypes.dll
