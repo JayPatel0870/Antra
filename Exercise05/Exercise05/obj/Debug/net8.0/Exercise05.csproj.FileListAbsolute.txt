@@ -1,0 +1,14 @@
+C:\dotnet\Exercise05\Exercise05\bin\Debug\net8.0\Exercise05.exe
+C:\dotnet\Exercise05\Exercise05\bin\Debug\net8.0\Exercise05.deps.json
+C:\dotnet\Exercise05\Exercise05\bin\Debug\net8.0\Exercise05.runtimeconfig.json
+C:\dotnet\Exercise05\Exercise05\bin\Debug\net8.0\Exercise05.dll
+C:\dotnet\Exercise05\Exercise05\bin\Debug\net8.0\Exercise05.pdb
+C:\dotnet\Exercise05\Exercise05\obj\Debug\net8.0\Exercise05.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Exercise05\Exercise05\obj\Debug\net8.0\Exercise05.AssemblyInfoInputs.cache
+C:\dotnet\Exercise05\Exercise05\obj\Debug\net8.0\Exercise05.AssemblyInfo.cs
+C:\dotnet\Exercise05\Exercise05\obj\Debug\net8.0\Exercise05.csproj.CoreCompileInputs.cache
+C:\dotnet\Exercise05\Exercise05\obj\Debug\net8.0\Exercise05.dll
+C:\dotnet\Exercise05\Exercise05\obj\Debug\net8.0\refint\Exercise05.dll
+C:\dotnet\Exercise05\Exercise05\obj\Debug\net8.0\Exercise05.pdb
+C:\dotnet\Exercise05\Exercise05\obj\Debug\net8.0\Exercise05.genruntimeconfig.cache
+C:\dotnet\Exercise05\Exercise05\obj\Debug\net8.0\ref\Exercise05.dll
