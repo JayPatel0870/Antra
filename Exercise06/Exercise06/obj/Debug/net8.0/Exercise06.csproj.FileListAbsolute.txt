@@ -1,0 +1,14 @@
+C:\dotnet\Exercise06\Exercise06\obj\Debug\net8.0\Exercise06.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Exercise06\Exercise06\obj\Debug\net8.0\Exercise06.AssemblyInfoInputs.cache
+C:\dotnet\Exercise06\Exercise06\obj\Debug\net8.0\Exercise06.AssemblyInfo.cs
+C:\dotnet\Exercise06\Exercise06\obj\Debug\net8.0\Exercise06.csproj.CoreCompileInputs.cache
+C:\dotnet\Exercise06\Exercise06\bin\Debug\net8.0\Exercise06.exe
+C:\dotnet\Exercise06\Exercise06\bin\Debug\net8.0\Exercise06.deps.json
+C:\dotnet\Exercise06\Exercise06\bin\Debug\net8.0\Exercise06.runtimeconfig.json
+C:\dotnet\Exercise06\Exercise06\bin\Debug\net8.0\Exercise06.dll
+C:\dotnet\Exercise06\Exercise06\bin\Debug\net8.0\Exercise06.pdb
+C:\dotnet\Exercise06\Exercise06\obj\Debug\net8.0\Exercise06.dll
+C:\dotnet\Exercise06\Exercise06\obj\Debug\net8.0\refint\Exercise06.dll
+C:\dotnet\Exercise06\Exercise06\obj\Debug\net8.0\Exercise06.pdb
+C:\dotnet\Exercise06\Exercise06\obj\Debug\net8.0\Exercise06.genruntimeconfig.cache
+C:\dotnet\Exercise06\Exercise06\obj\Debug\net8.0\ref\Exercise06.dll
