@@ -1,0 +1,14 @@
+C:\dotnet\Exercise07\Exercise07\obj\Debug\net8.0\Exercise07.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Exercise07\Exercise07\obj\Debug\net8.0\Exercise07.AssemblyInfoInputs.cache
+C:\dotnet\Exercise07\Exercise07\obj\Debug\net8.0\Exercise07.AssemblyInfo.cs
+C:\dotnet\Exercise07\Exercise07\obj\Debug\net8.0\Exercise07.csproj.CoreCompileInputs.cache
+C:\dotnet\Exercise07\Exercise07\bin\Debug\net8.0\Exercise07.exe
+C:\dotnet\Exercise07\Exercise07\bin\Debug\net8.0\Exercise07.deps.json
+C:\dotnet\Exercise07\Exercise07\bin\Debug\net8.0\Exercise07.runtimeconfig.json
+C:\dotnet\Exercise07\Exercise07\bin\Debug\net8.0\Exercise07.dll
+C:\dotnet\Exercise07\Exercise07\bin\Debug\net8.0\Exercise07.pdb
+C:\dotnet\Exercise07\Exercise07\obj\Debug\net8.0\Exercise07.dll
+C:\dotnet\Exercise07\Exercise07\obj\Debug\net8.0\refint\Exercise07.dll
+C:\dotnet\Exercise07\Exercise07\obj\Debug\net8.0\Exercise07.pdb
+C:\dotnet\Exercise07\Exercise07\obj\Debug\net8.0\Exercise07.genruntimeconfig.cache
+C:\dotnet\Exercise07\Exercise07\obj\Debug\net8.0\ref\Exercise07.dll
