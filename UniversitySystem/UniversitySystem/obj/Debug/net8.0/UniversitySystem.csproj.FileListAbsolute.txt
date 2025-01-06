@@ -1,0 +1,14 @@
+C:\dotnet\UniversitySystem\UniversitySystem\bin\Debug\net8.0\UniversitySystem.exe
+C:\dotnet\UniversitySystem\UniversitySystem\bin\Debug\net8.0\UniversitySystem.deps.json
+C:\dotnet\UniversitySystem\UniversitySystem\bin\Debug\net8.0\UniversitySystem.runtimeconfig.json
+C:\dotnet\UniversitySystem\UniversitySystem\bin\Debug\net8.0\UniversitySystem.dll
+C:\dotnet\UniversitySystem\UniversitySystem\bin\Debug\net8.0\UniversitySystem.pdb
+C:\dotnet\UniversitySystem\UniversitySystem\obj\Debug\net8.0\UniversitySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\UniversitySystem\UniversitySystem\obj\Debug\net8.0\UniversitySystem.AssemblyInfoInputs.cache
+C:\dotnet\UniversitySystem\UniversitySystem\obj\Debug\net8.0\UniversitySystem.AssemblyInfo.cs
+C:\dotnet\UniversitySystem\UniversitySystem\obj\Debug\net8.0\UniversitySystem.csproj.CoreCompileInputs.cache
+C:\dotnet\UniversitySystem\UniversitySystem\obj\Debug\net8.0\UniversitySystem.dll
+C:\dotnet\UniversitySystem\UniversitySystem\obj\Debug\net8.0\refint\UniversitySystem.dll
+C:\dotnet\UniversitySystem\UniversitySystem\obj\Debug\net8.0\UniversitySystem.pdb
+C:\dotnet\UniversitySystem\UniversitySystem\obj\Debug\net8.0\UniversitySystem.genruntimeconfig.cache
+C:\dotnet\UniversitySystem\UniversitySystem\obj\Debug\net8.0\ref\UniversitySystem.dll
