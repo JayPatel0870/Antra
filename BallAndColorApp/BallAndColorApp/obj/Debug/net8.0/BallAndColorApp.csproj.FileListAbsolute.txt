@@ -1,0 +1,14 @@
+C:\dotnet\BallAndColorApp\BallAndColorApp\bin\Debug\net8.0\BallAndColorApp.exe
+C:\dotnet\BallAndColorApp\BallAndColorApp\bin\Debug\net8.0\BallAndColorApp.deps.json
+C:\dotnet\BallAndColorApp\BallAndColorApp\bin\Debug\net8.0\BallAndColorApp.runtimeconfig.json
+C:\dotnet\BallAndColorApp\BallAndColorApp\bin\Debug\net8.0\BallAndColorApp.dll
+C:\dotnet\BallAndColorApp\BallAndColorApp\bin\Debug\net8.0\BallAndColorApp.pdb
+C:\dotnet\BallAndColorApp\BallAndColorApp\obj\Debug\net8.0\BallAndColorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\BallAndColorApp\BallAndColorApp\obj\Debug\net8.0\BallAndColorApp.AssemblyInfoInputs.cache
+C:\dotnet\BallAndColorApp\BallAndColorApp\obj\Debug\net8.0\BallAndColorApp.AssemblyInfo.cs
+C:\dotnet\BallAndColorApp\BallAndColorApp\obj\Debug\net8.0\BallAndColorApp.csproj.CoreCompileInputs.cache
+C:\dotnet\BallAndColorApp\BallAndColorApp\obj\Debug\net8.0\BallAndColorApp.dll
+C:\dotnet\BallAndColorApp\BallAndColorApp\obj\Debug\net8.0\refint\BallAndColorApp.dll
+C:\dotnet\BallAndColorApp\BallAndColorApp\obj\Debug\net8.0\BallAndColorApp.pdb
+C:\dotnet\BallAndColorApp\BallAndColorApp\obj\Debug\net8.0\BallAndColorApp.genruntimeconfig.cache
+C:\dotnet\BallAndColorApp\BallAndColorApp\obj\Debug\net8.0\ref\BallAndColorApp.dll
